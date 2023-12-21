@@ -41,7 +41,7 @@ void QuickSort(int A[], int low, int high) {
 }
 
 int main() {
-  int argv[10] = {5, 1, 8, 2, 0, 3, 6, 9, 4, 7};
+  int argv[10] = {5, 1, 1, 8, 0, 3, 6, 9, 4, 7};
   QuickSort(argv, 0, 9);
   // BubbleSort(argv,10);
   for (int i = 0; i < 10; i++) {
