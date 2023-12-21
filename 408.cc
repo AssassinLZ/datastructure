@@ -109,10 +109,6 @@ int Ds_2013(int nums[8],int length)
 
 int main()
 {
-    int nums[]={0, 5, 5, 3, 5, 7, 5, 5};
-    int max=Ds_2013(nums[8],8);
-    printf("%d", );
-//    Ds_2011();
-    std::cout << "Hello, World!" << std::endl;
+    
     return 0;
 }
